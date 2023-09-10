@@ -81,6 +81,12 @@ const CONFIG = {
 			icon: 'clapperboard',
 			link: 'https://netflix.com',
 		},
+		{
+			id: '4',
+			name: 'Habits tracker',
+			icon: 'check-square',
+			link: 'https://trendingpositive.app/dashboard',
+		}
 	],
 
 	secondButtonsContainer: [
