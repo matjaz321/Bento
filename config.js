@@ -82,7 +82,7 @@ const CONFIG = {
 			link: 'https://netflix.com',
 		},
 		{
-			id: '4',
+			id: '5',
 			name: 'Habits tracker',
 			icon: 'check-square',
 			link: 'https://trendingpositive.app/dashboard',
